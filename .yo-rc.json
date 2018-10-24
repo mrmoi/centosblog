@@ -26,6 +26,8 @@
     "clientPackageManager": "npm",
     "testFrameworks": [],
     "jhiPrefix": "jhi",
-    "enableTranslation": false
+    "enableTranslation": false,
+    "herokuAppName": "linuxblogmmartz",
+    "herokuDeployType": "git"
   }
 }
